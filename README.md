@@ -57,11 +57,6 @@ The game checks for collisions
 
 Score increases when the bird passes pipes
 
-📁 Files in the Project
-flappy.py       → Game code
-assets/       → Images
-README.md     → This file 🙂
-
 🚀 Future Ideas
 
 Add sound effects 🔊
