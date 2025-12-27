@@ -31,7 +31,7 @@ That’s it! Simple and beginner-friendly 😊
 ▶️ How to Run the Game
 Step 1: Install Python
 
-Make sure Python 3 is installed on your system.
+Make sure Python 3 is installed on your system
 
 Step 2: Install Pygame
 
