@@ -1,5 +1,8 @@
 🐤 Flappy Bird Game (Made with Pygame)
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-000000?logo=pygame&logoColor=white)
+
 Hi! 👋
 This is a Flappy Bird–style game that I created using Python and Pygame.
 The game is easy to play and was built mainly for learning and fun 🎮
@@ -37,10 +40,14 @@ Step 2: Install Pygame
 
 Open terminal / command prompt and type:
 
+```bash
 pip install pygame
+```
 
 Step 3: Run the Game
+```bash
 python flappybird.py
+```
 
 
 🎉 The game window will open — start playing!
